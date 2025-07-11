@@ -49,8 +49,11 @@ It ensures the analytic account is filled on every POS order line and patches th
 ## Credits
 
 **Author:**  
-Odoo Dev  
-Based on advanced developer experience and feedback from the OCA and community.
+Esteban Viniegra Pérez Olagaray
+esteban@eviniegra.software
+
+Pridecta
+https://pridecta.com
 
 ---
 
