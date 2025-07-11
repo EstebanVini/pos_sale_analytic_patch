@@ -5,7 +5,7 @@
     'author': 'Esteban Viniegra Pérez Olagaray | Pridecta',
     'license': 'AGPL-3',
     'website': 'https://pridecta.com',
-    'depends': ['pos_order__line','sale','pos_analytic_by_config'],
+    'depends': ['sale','pos_analytic_by_config'],
     'data': [],
     'icon': 'pos_sale_analytic_patch/static/description/logo.png',
     'installable': True,

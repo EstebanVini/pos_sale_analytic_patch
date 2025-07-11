@@ -1,9 +1,8 @@
-from odoo import models, api
+from odoo import models # type: ignore[import]
 
 class SaleReport(models.Model):
     _inherit = 'sale.report'
 
-    @api.model_cr
     def init(self):
         self.env.cr.execute("""
 DROP VIEW IF EXISTS sale_report CASCADE;

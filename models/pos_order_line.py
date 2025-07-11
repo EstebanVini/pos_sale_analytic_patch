@@ -1,4 +1,4 @@
-from odoo import api, fields, models
+from odoo import api, fields, models # type: ignore[import]
 
 class PosOrderLine(models.Model):
     _inherit = 'pos.order.line'
